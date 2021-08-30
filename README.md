@@ -3,7 +3,7 @@
 ## Introduction
 PyTorch implementation for this [paper](https://arxiv.org/pdf/1612.00496.pdf).
 
-![example-image](out/example_image.png)
+![example-image](output/example_image.png)
 
 At the moment, it takes approximately 0.4s per frame, depending on the number of objects
 detected.
